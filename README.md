@@ -41,5 +41,5 @@ Please note that for detailed information and specific data attributes, you can 
 ## Example
 You can also find a simple use case in the [Jupyter notebook](https://github.com/oppenheimer3/Algeria_wildfires_prediction/blob/master/model.ipynb) where a neural network is developed to predict the risk of wildfire occurrence:
 
-![Performance Evaluation of The Trained Model on the Bejaia Wildfires 2023 Test Set](image.png)
+![Performance Evaluation of The Trained Model on the Bejaia Wildfires 2023 Test Set.](image.png)
 Performance Evaluation of the Trained Model on the Bejaia Wildfires 2023 Test Set, where the colors represent the probability of occurrence.
