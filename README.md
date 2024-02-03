@@ -8,7 +8,7 @@ This subdirectory houses a diverse array of datasets related to wildfires in Alg
 
 1. **Algeia_wildfires_dataset.csv**
    - *Description:* The primary dataset encompassing all recorded wildfires in Algeria from 2021 to 2023.
-   - *Source:* [MODIS_061_MOD14A1 - Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD14A1#bands)
+   - *Source:* [MODIS_061_MOD14A1 - Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD14A1#bands).
 
 2. **land_surface_temperature.csv**
    - *Description:* This dataset provides information about land surface temperatures associated with the recorded wildfires.
